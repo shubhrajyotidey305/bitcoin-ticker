@@ -2,7 +2,7 @@
     package="shubhrajyoti.dey.bitcoin_ticker">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="bitcoin_ticker"
+        android:label="Bitcoin Ticker"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
